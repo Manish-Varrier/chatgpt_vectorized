@@ -1,0 +1,6 @@
+export DATASTORE=pinecone
+export BEARER_TOKEN=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6ImRlZXAiLCJpYXQiOjE1MTYyMzkwMjJ9.AZAa2ikX6323eTHGHd7axUJRQ4EfzJJ6s3vikqEWrMY
+export OPENAI_API_KEY=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
+export PINECONE_API_KEY=dd7be563-e13c-4c1b-b1fc-c5b5d03b7f2a
+export PINECONE_ENVIRONMENT=northamerica-northeast1-gcp
+export PINECONE_INDEX=gpt-test
